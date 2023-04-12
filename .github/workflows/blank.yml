@@ -35,4 +35,4 @@ jobs:
     steps:
       - name: test
         run: |
-          echo 'hi'
+          echo 'hello'
